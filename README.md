@@ -1,4 +1,4 @@
-**Computer Vision Project**
+##Computer Vision Project
 
 This project implements an image stitching algorithm to create panoramas from two input images using Python and OpenCV. It demonstrates fundamental techniques in computer vision, including feature detection, keypoint matching, and image transformation.
 
